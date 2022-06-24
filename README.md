@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rubentanoey
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @rubentanoey
 
 <!---
 rubentanoey/rubentanoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
